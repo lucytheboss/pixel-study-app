@@ -17,16 +17,16 @@ Do you get bored or lonely when studying by yourself? Pixel Quest transforms you
 ## 📸 Screenshots
 
 ![Inn Tavern (Settings Menu)](images/screenshot1.png)
-*메인화면: 타이머 시간 및 BGM 트랙 설정 가능*
+*Main Screen: Set your Pomodoro timer and BGM track*
 
 ![Study Mode (Gallery View)](images/screenshot2.png)
-*Study Mode: 갤러리 뷰 (Hunter x Hunter 팀)*
+*Study Mode: Gallery View (Hunter x Hunter Team)*
 
 ![Study Mode (Speaker View)](images/screenshot3.png)
-*Study Mode: 발표자 뷰 (Hunter x Hunter 팀)*
+*Study Mode: Speaker View (Hunter x Hunter Team)*
 
 ![Study Mode (Speaker View - Frieren)](images/screenshot4.png)
-*Study Mode: 발표자 뷰 (Frieren 팀)*
+*Study Mode: Speaker View (Frieren Team)*
 
 ## 🚀 How to Use
 
