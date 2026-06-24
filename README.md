@@ -14,6 +14,20 @@ Do you get bored or lonely when studying by yourself? Pixel Quest transforms you
 - **Lofi YouTube Player:** Listen to carefully curated anime Lofi tracks directly within the app.
 - **Live User Webcam:** You can even turn on your actual webcam to join the characters on-screen as the "Host"!
 
+## 📸 Screenshots
+
+![Inn Tavern (Settings Menu)](images/screenshot1.png)
+*The Inn Tavern: Choose your BGM and set your Pomodoro timer.*
+
+![Study Mode (Gallery View)](images/screenshot2.png)
+*Study Mode: 6-person Gallery View with HxH characters.*
+
+![Study Mode (Speaker View)](images/screenshot3.png)
+*Study Mode: Speaker View featuring Killua.*
+
+![Study Mode (Speaker View - Frieren)](images/screenshot4.png)
+*Study Mode: Speaker View featuring Frieren in her magic room.*
+
 ## 🚀 How to Use
 
 ### 1. Download the Project
