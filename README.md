@@ -16,7 +16,14 @@ Do you get bored or lonely when studying by yourself? Pixel Quest transforms you
 
 ## 🚀 How to Use
 
-### 1. Setup & Launch
+### 1. Download the Project
+First, get the code onto your computer. You can either download the ZIP file from GitHub or clone the repository using Git:
+```bash
+git clone https://github.com/lucytheboss/pixel-study-app.git
+cd pixel-study-app
+```
+
+### 2. Setup & Launch
 Since this is a client-side HTML/JS application, you can simply run it through any local HTTP server.
 If you have Python installed, navigate to the project folder in your terminal and run:
 ```bash
@@ -24,13 +31,13 @@ python3 -m http.server 8080
 ```
 Then, open your web browser and go to `http://localhost:8080`.
 
-### 2. The Inn Tavern (Settings Mode)
+### 3. The Inn Tavern (Settings Mode)
 When you first load the app, you will be in the "Settings" menu.
 - **Select BGM:** Choose your preferred study group and Lo-fi track from the left panel. (Track 3: Ultimate Study Group puts all 9 characters on screen!)
 - **Set Timer:** Set your Focus time, Short Break, or Long Break on the right panel. You can also input a custom timer up to 180 minutes.
 - **Start Quest:** Click the big "START QUEST" button when you are ready to begin.
 
-### 3. Study Mode (Zoom Call)
+### 4. Study Mode (Zoom Call)
 - **View Toggles:** Click `[🔳 View]` in the top right to switch between **Gallery View** (everyone on screen) and **Speaker View** (one large active speaker that changes periodically).
 - **Webcam:** Click the `[📹 Start Video]` button on the bottom toolbar to turn on your actual computer webcam and appear alongside the characters! *(Your browser will ask for camera permission)*
 - **Return to Settings:** Click the red `[Leave]` button at the top right to end the study session and choose a new timer or track.
